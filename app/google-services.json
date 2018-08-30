@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "355304598936",
+    "firebase_url": "https://fbsignin-eeead.firebaseio.com",
+    "project_id": "fbsignin-eeead",
+    "storage_bucket": "fbsignin-eeead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355304598936:android:fee39e9769075208",
+        "android_client_info": {
+          "package_name": "com.example.user.fbsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355304598936-qpbrelo20scm7g16smh365isdlkqvjv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fbsignin",
+            "certificate_hash": "61128e7f4a83b987ac546fa29af9c1dab3b44bbc"
+          }
+        },
+        {
+          "client_id": "355304598936-uqalgvv33c9tlusl0tgf6sspqnlp84qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxon-JHxY7dcOk7mFG0am_Z73TlNreNdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355304598936-uqalgvv33c9tlusl0tgf6sspqnlp84qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
